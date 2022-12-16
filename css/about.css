@@ -1,0 +1,126 @@
+.Abouttemp {
+    min-height: calc(100vh - 12vh - 16vh);
+}
+
+.shopname {
+    display: flex;
+    width: 100vw;
+    /* height: 28px; */
+    justify-content: center;
+    font-size: 26px;
+    font-weight: 1000;
+    height: 28px;
+
+    /* background: green; */
+}
+
+.foot {
+
+    /* background: green; */
+    height: 16vh;
+    display: flex;
+
+}
+
+.locationlogo img {
+    height: 15px;
+    width: 15px;
+}
+
+.adress p {
+    width: 306px;
+    font-size: 12px;
+}
+
+.contact {
+    padding-left: 151px;
+}
+
+.contact2 {
+
+    padding-left: 30px;
+
+}
+
+.contact p,
+.contact2 p {
+    padding-top: 6px;
+}
+
+.contact img,
+.contact2 img {
+    height: 15px;
+    width: 15px;
+}
+
+.tandc {
+
+    padding-left: 105px;
+}
+
+.scanner {
+    padding-left: 135px;
+}
+
+.scanner img {
+    height: 81px;
+    width: 81px;
+}
+
+/* ................................................................................ */
+
+main{
+    background: white;
+}
+.sneha{
+    display: flex;
+    justify-content: start;
+    padding: 21px;
+    align-items: center;
+}
+.snehaimg{
+    display: flex;
+    border-radius: 69px;
+    border: 2px solid #f3c3d9;
+    overflow: hidden;
+}
+.snehaimg img{
+    height: 252px;
+}
+.snehamssg{
+    display: flex;
+width: 570px;
+font-size: 26px;
+padding: 27px;
+align-items: center;
+border: 2px solid #763535;
+margin: 15px;
+border-radius: 0px 83px 0px 83px;
+background: #f2b6ca;
+}
+.shop{
+    display: flex;
+    justify-content: end;
+    padding: 21px;
+    align-items: center;
+}
+.shopimg{
+    display: flex;
+    border-radius: 69px;
+    border: 2px solid #f3c3d9;
+    overflow: hidden;
+}
+.shopimg img{
+    height: 252px;
+}
+.shopmssg{
+    display: flex;
+width: 570px;
+font-size: 26px;
+padding: 27px;
+align-items: center;
+border: 2px solid #763535;
+margin: 15px;
+border-radius: 83px 0px 83px 0px;
+background: #f2b6ca;
+}

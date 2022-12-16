@@ -1,0 +1,82 @@
+body{
+    background: #576e63;
+    
+}
+nav {
+    
+    background: #763535;
+   
+   
+}
+nav li a {
+    
+    background: #763535;
+color: white;
+}
+/* .list1 {
+    
+    border-right: 2px solid white;
+   
+}
+.list2 {
+    
+    border-left: 2px solid white;
+    
+   
+}
+.a3 {
+    border-right: 2px solid white;
+}
+
+.a1 {
+    border-right: 2px solid white;
+} */
+.shopname {
+    
+
+    background: #e9739a;
+    color: white;
+}
+.mainbox{
+    
+background:#f3c3d9;
+
+}
+.catpic{
+    background: #763535
+    ;
+border-top: 2px solid black;
+border-left: 2px solid black;
+border-bottom: 2px solid black;
+
+  }
+  .pointerbox button, .mssg2 button{
+    background: #f972cb94;
+    
+
+}
+.mssg2 button{
+    background: #f972cb94;
+    
+
+}
+.mssg3 button{background: #f972cb94;
+    }
+    .foot{
+    
+    background: #763535;;
+    
+        color: white;
+        
+    }
+    main{
+        background: #f3c3d9;
+       
+           
+           
+
+            
+       
+    }
+    
+    

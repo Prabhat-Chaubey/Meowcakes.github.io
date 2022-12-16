@@ -1,0 +1,28 @@
+.menu {
+    min-height: calc(100vh - 12vh - 16vh);
+}
+.meowmssg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 206px;
+    width: 50vw;
+    flex-direction: row;
+    border: 2px solid white;
+}
+.flex3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0px;
+}
+.menuimg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 23px;
+}
+.menuimg img{
+padding: 10px;
+border: 2px solid black;
+}
