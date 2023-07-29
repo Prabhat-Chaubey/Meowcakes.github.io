@@ -18,7 +18,7 @@ This repository contains the source code for a basic cake shop website developed
 
 ## Demo
 
-https://prabhat-chaubey.github.io/Meowcakes.github.io/)https://prabhat-chaubey.github.io/Meowcakes.github.io/
+https://prabhat-chaubey.github.io/Meowcakes.github.io/
 
 
 
